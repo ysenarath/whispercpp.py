@@ -1,10 +1,10 @@
 Python bindings for whisper.cpp
 ===============================
 
-<a href="https://www.buymeacoffee.com/lukeFxC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+# Note this is Fork used for private use only. Please see the original for your uses.
 
 ---
-`pip install git+https://github.com/stlukey/whispercpp.py`
+`pip install git+https://github.com/ysenarath/whispercpp.py`
 
 ```python
 from whispercpp import Whisper
